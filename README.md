@@ -7,6 +7,7 @@
 ## 사용한 기술
 * HTML
 * CSS
+* BootStrap
 
 ## 기능
-* HTML과 CSS를 이용한 단순한 사이트 메인화면 구현
+* HTML, CSS, BootStrap을 이용한 단순한 사이트 메인화면 구현(프론트엔드)
